@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Привет, меня зовут Алмаз 👋</h1>
+<p align="center">
+  Frontend / React Developer
+</p>
 
-<!--
-**Almazik001/Almazik001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Обо мне
+- React-разработчик  
+- Опыт активной разработки ~1 год  
+- Создаю SPA и интерфейсы на JavaScript  
+- Постоянно учусь и прокачиваю frontend-навыки  
+
+---
+
+### 🛠️ Стек технологий
+- **JavaScript (ES6+)**
+- **React**
+- HTML, CSS (SCSS)
+- Git, REST API
+
+---
+
+### 📌 Проекты
+- **Task Tracker** — React-приложение для управления задачами  
+- Учебные и pet-проекты для практики и роста
+
+---
+
+### 📬 Связь
+<p>
+  <a href="https://t.me/ТВОЙ_USERNAME">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐ Открыт к новым возможностям и интересным проектам
